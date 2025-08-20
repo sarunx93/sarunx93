@@ -1,5 +1,7 @@
 ## Hi there 👋 
-# My name is Sarun, an experienced full-stack developer.
+### I'm Sarun, an experienced full-stack developer.
+
+- 💻 Professional developer, working for Thailand's biggest online community.
 
 <!--
 **sarunx93/sarunx93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
