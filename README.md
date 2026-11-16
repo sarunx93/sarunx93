@@ -1,7 +1,52 @@
-## Hi there 👋 
-### I'm Sarun, an experienced full-stack developer.
 
-- 💻 Professional developer, working for Thailand's biggest online community.
+<!-- Modern Creative • GitHub Profile README -->
+
+<div align="center">
+
+  <!-- ==================== -->
+  <!--    PROFILE BANNER    -->
+  <!-- ==================== -->
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:312E81,100:7C3AED&text=Hey%2C%20I'm%20Sarun%20%E2%9C%A8&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Sports%20Lover%20%E2%80%A2%20Musician&descAlignY=60&descSize=16&animation=fadeIn"
+    alt="Sarun's profile banner"
+    width="100%"
+  />
+
+  <!-- ==================== -->
+  <!--   TYPING ANIMATION   -->
+  <!-- ==================== -->
+
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=From+interfaces+to+infrastructure;Building+things%2C+understanding+systems;Backend+%7C+Full-Stack+%7C+Cloud;Still+learning.+Still+building."
+      alt="Animated typing: engineering interests"
+    />
+  </a>
+
+  <!-- ==================== -->
+  <!--    PROFILE BADGES    -->
+  <!-- ==================== -->
+
+  <p>
+    <img
+      src="https://img.shields.io/badge/Focus-Backend_%26_Full--Stack-7C3AED?style=for-the-badge"
+      alt="Focus: Backend & Full-Stack"
+    />
+    <img
+      src="https://img.shields.io/badge/Based_in-Bangkok-0F172A?style=for-the-badge"
+      alt="Location: Bangkok, Thailand"
+    />
+    <img
+      src="https://img.shields.io/badge/Exploring-System_Design-2563EB?style=for-the-badge"
+      alt="Currently exploring: System Design"
+    />
+  </p>
+
+</div>
+
+
+
 ### A bit about my self
 - I started my IT journey at the age of 25 as a Master degree student and landed my first job at the age of 29.
 - I'm particularly interested in how apply "creative coding" in my work.
