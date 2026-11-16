@@ -2,6 +2,10 @@
 ### I'm Sarun, an experienced full-stack developer.
 
 - 💻 Professional developer, working for Thailand's biggest online community.
+### A bit about my self
+- I started my IT journey at the age of 25 as a Master degree student and landed my first job at the age of 29.
+- I'm particularly interested in how apply "creative coding" in my work.
+- I spent a few years in Melbourne, Australia. I would say that my time there was a like a ride of roller coaster Of course, I love it !!
 
 <!--
 **sarunx93/sarunx93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
