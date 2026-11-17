@@ -2,32 +2,20 @@
 <!-- Modern Creative • GitHub Profile README -->
 
 <div align="center">
-
-  <!-- ==================== -->
-  <!--    PROFILE BANNER    -->
-  <!-- ==================== -->
-
-  <img
+ <img
     src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,45:312E81,100:7C3AED&text=Hey%2C%20I'm%20Sarun%20%E2%9C%A8&fontColor=FFFFFF&fontSize=46&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Sports%20Lover%20%E2%80%A2%20Musician&descAlignY=60&descSize=16&animation=fadeIn"
     alt="Sarun's profile banner"
     width="100%"
   />
-
-  <!-- ==================== -->
-  <!--   TYPING ANIMATION   -->
-  <!-- ==================== -->
-
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=From+interfaces+to+infrastructure;Building+things%2C+understanding+systems;Backend+%7C+Full-Stack+%7C+Cloud;Still+learning.+Still+building."
-      alt="Animated typing: engineering interests"
-    />
-  </a>
-
+   <img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=700&lines=From+Ideas+to+Reality;Technical+meets+creativity;Don%27t+give+up+thinking!"
+  alt="Typing SVG"
+/>
+</div>
   <!-- ==================== -->
   <!--    PROFILE BADGES    -->
   <!-- ==================== -->
-
+<div align="center">
   <p>
     <img
       src="https://img.shields.io/badge/Focus-Backend_%26_Full--Stack-7C3AED?style=for-the-badge"
