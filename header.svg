@@ -1,0 +1,85 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="900" height="260"
+     viewBox="0 0 900 260">
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0F172A"/>
+      <stop offset="45%" stop-color="#312E81"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+
+    <!-- Typing animation: 3 messages, 12-second loop -->
+    <clipPath id="type1">
+      <rect x="280" y="207" height="35" width="0">
+        <animate attributeName="width"
+          values="0;360;360;0;0"
+          keyTimes="0;0.22;0.30;0.333;1"
+          dur="12s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="type2">
+      <rect x="270" y="207" height="35" width="0">
+        <animate attributeName="width"
+          values="0;0;360;360;0;0"
+          keyTimes="0;0.333;0.55;0.63;0.666;1"
+          dur="12s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+
+    <clipPath id="type3">
+      <rect x="270" y="207" height="35" width="0">
+        <animate attributeName="width"
+          values="0;0;360;360;0"
+          keyTimes="0;0.666;0.88;0.97;1"
+          dur="12s" repeatCount="indefinite"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <!-- Wave banner -->
+  <path fill="url(#bg)"
+    d="M0 0 H900 V170
+       C650 230 250 120 0 180 Z"/>
+
+  <!-- Heading -->
+  <text x="450" y="80"
+    fill="#FFFFFF"
+    font-family="Arial, sans-serif"
+    font-weight="bold"
+    font-size="46"
+    text-anchor="middle">
+    Hey, I'm Sarun ✨
+  </text>
+
+  <!-- Description -->
+  <text x="450" y="118"
+    fill="#FFFFFF"
+    font-family="Arial, sans-serif"
+    font-size="16"
+    text-anchor="middle">
+    Software Engineer • Sports Lover • Musician
+  </text>
+
+  <!-- Typing lines -->
+  <g fill="#A78BFA"
+     font-family="monospace"
+     font-size="20"
+     text-anchor="middle">
+
+    <text x="450" y="230" clip-path="url(#type1)">
+      From Ideas to Reality
+    </text>
+
+    <text x="450" y="230" clip-path="url(#type2)">
+      Technical meets creativity
+    </text>
+
+    <text x="450" y="230" clip-path="url(#type3)">
+      Don't give up thinking!
+    </text>
+
+  </g>
+</svg>
